@@ -1,5 +1,14 @@
 version: '3.8'
+<<<<<<< HEAD
+This is your local change. I added some text here.
+=======
+This is the change from the remote. It also adds text but in a different way.
+<<<<<<< HEAD
 
+=======
+# avneet
+>>>>>>> 8d362da (test commit to varify pgp sign)
+>>>>>>> 1cf1550 (test commit to varify pgp sign)
 services:
   db:
     image: mysql:5.7
